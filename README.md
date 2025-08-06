@@ -16,5 +16,3 @@
 ## 🩷 Application Functionality
 
 ![GitHub Actions](screenshots/app.png)
-
----
