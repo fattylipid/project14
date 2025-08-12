@@ -9,10 +9,10 @@
 
 ## 🩷 Docker Hub Deployment
 
-![GitHub Actions](screenshots/deployment.png)
+![Docker Hub](screenshots/deployment.png)
 
 ---
 
-## 🩷 Application Functionality
+## 🩷 Application
 
-![GitHub Actions](screenshots/app.png)
+![Application](screenshots/application.png)
